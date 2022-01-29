@@ -1,6 +1,8 @@
+package SolutionsCode_CodeForces;
+
 import java.util.Scanner;
 
-public class Watermelon4a {
+public class Easy_Watermelon4a {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int weightInKilo = input.nextInt();
