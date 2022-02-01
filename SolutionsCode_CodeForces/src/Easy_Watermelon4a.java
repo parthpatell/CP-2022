@@ -1,6 +1,9 @@
-package SolutionsCode_CodeForces;
-
 import java.util.Scanner;
+/*
+https://codeforces.com/problemset/problem/4/A
+Problem 4A
+Needed to find if you can get an even number of weight for the divided parts.
+ */
 
 public class Easy_Watermelon4a {
     public static void main(String[] args){
@@ -12,5 +15,6 @@ public class Easy_Watermelon4a {
         else{
             System.out.println("NO");
         }
+        System.out.println();
     }
 }

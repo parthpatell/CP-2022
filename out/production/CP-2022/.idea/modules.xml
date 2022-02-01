@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CP-2022.iml" filepath="$PROJECT_DIR$/.idea/CP-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolutionsCode_CodeForces/Easy-Problems-CodeForces.iml" filepath="$PROJECT_DIR$/SolutionsCode_CodeForces/Easy-Problems-CodeForces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SolutionsCode_CodeForces/SolutionsCode_CodeForces.iml" filepath="$PROJECT_DIR$/SolutionsCode_CodeForces/SolutionsCode_CodeForces.iml" />
     </modules>
   </component>
 </project>
